@@ -1,1 +1,21 @@
-print((5<10) and (10 < 5) or (3 < 18) and not (8 < 18))
+a = ''
+b = ' '
+c = 'great'
+d = 'Great'
+e = 'GREAT'
+f = 'Great'
+g = ' GREAT'
+h = ' great'
+x = 29.0
+y = 13
+z = 2
+p = 0.5
+q = 12.79
+i = 13
+j = 29.0
+k = y - 11
+l = (3 + 4.5j)
+m = (3 + 4.5j )
+r = 0
+s = 0.0
+print(a  and g)
