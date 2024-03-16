@@ -1,3 +1,5 @@
-x = input("Enter a 2 digit number: ")
-y = (x[-1] + x[-2])
-print(x, y)
+name = "HariT"
+print(name)
+# name[2] == "R" # Expression unused
+name[2] = "R"  # string is immutable
+print(name)
